@@ -1,0 +1,16 @@
+C:\Users\chris\Desktop\C# .Net Projects\NewTryForLearning\NewTryForLearning\bin\Debug\net5.0\NewTryForLearning.exe
+C:\Users\chris\Desktop\C# .Net Projects\NewTryForLearning\NewTryForLearning\bin\Debug\net5.0\NewTryForLearning.deps.json
+C:\Users\chris\Desktop\C# .Net Projects\NewTryForLearning\NewTryForLearning\bin\Debug\net5.0\NewTryForLearning.runtimeconfig.json
+C:\Users\chris\Desktop\C# .Net Projects\NewTryForLearning\NewTryForLearning\bin\Debug\net5.0\NewTryForLearning.runtimeconfig.dev.json
+C:\Users\chris\Desktop\C# .Net Projects\NewTryForLearning\NewTryForLearning\bin\Debug\net5.0\NewTryForLearning.dll
+C:\Users\chris\Desktop\C# .Net Projects\NewTryForLearning\NewTryForLearning\bin\Debug\net5.0\ref\NewTryForLearning.dll
+C:\Users\chris\Desktop\C# .Net Projects\NewTryForLearning\NewTryForLearning\bin\Debug\net5.0\NewTryForLearning.pdb
+C:\Users\chris\Desktop\C# .Net Projects\NewTryForLearning\NewTryForLearning\obj\Debug\net5.0\NewTryForLearning.csproj.AssemblyReference.cache
+C:\Users\chris\Desktop\C# .Net Projects\NewTryForLearning\NewTryForLearning\obj\Debug\net5.0\NewTryForLearning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\Desktop\C# .Net Projects\NewTryForLearning\NewTryForLearning\obj\Debug\net5.0\NewTryForLearning.AssemblyInfoInputs.cache
+C:\Users\chris\Desktop\C# .Net Projects\NewTryForLearning\NewTryForLearning\obj\Debug\net5.0\NewTryForLearning.AssemblyInfo.cs
+C:\Users\chris\Desktop\C# .Net Projects\NewTryForLearning\NewTryForLearning\obj\Debug\net5.0\NewTryForLearning.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\C# .Net Projects\NewTryForLearning\NewTryForLearning\obj\Debug\net5.0\NewTryForLearning.dll
+C:\Users\chris\Desktop\C# .Net Projects\NewTryForLearning\NewTryForLearning\obj\Debug\net5.0\ref\NewTryForLearning.dll
+C:\Users\chris\Desktop\C# .Net Projects\NewTryForLearning\NewTryForLearning\obj\Debug\net5.0\NewTryForLearning.pdb
+C:\Users\chris\Desktop\C# .Net Projects\NewTryForLearning\NewTryForLearning\obj\Debug\net5.0\NewTryForLearning.genruntimeconfig.cache

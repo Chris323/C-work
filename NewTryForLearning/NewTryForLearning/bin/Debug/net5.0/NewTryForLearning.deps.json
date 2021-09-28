@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "NewTryForLearning/1.0.0": {
+        "runtime": {
+          "NewTryForLearning.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NewTryForLearning/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
