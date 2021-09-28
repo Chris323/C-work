@@ -1,0 +1,16 @@
+C:\Users\chris\Desktop\C# .Net Projects\CovarianceContravarianceExample\CovarianceExample\bin\Debug\net5.0\CovarianceContravarianceExample.exe
+C:\Users\chris\Desktop\C# .Net Projects\CovarianceContravarianceExample\CovarianceExample\bin\Debug\net5.0\CovarianceContravarianceExample.deps.json
+C:\Users\chris\Desktop\C# .Net Projects\CovarianceContravarianceExample\CovarianceExample\bin\Debug\net5.0\CovarianceContravarianceExample.runtimeconfig.json
+C:\Users\chris\Desktop\C# .Net Projects\CovarianceContravarianceExample\CovarianceExample\bin\Debug\net5.0\CovarianceContravarianceExample.runtimeconfig.dev.json
+C:\Users\chris\Desktop\C# .Net Projects\CovarianceContravarianceExample\CovarianceExample\bin\Debug\net5.0\CovarianceContravarianceExample.dll
+C:\Users\chris\Desktop\C# .Net Projects\CovarianceContravarianceExample\CovarianceExample\bin\Debug\net5.0\ref\CovarianceContravarianceExample.dll
+C:\Users\chris\Desktop\C# .Net Projects\CovarianceContravarianceExample\CovarianceExample\bin\Debug\net5.0\CovarianceContravarianceExample.pdb
+C:\Users\chris\Desktop\C# .Net Projects\CovarianceContravarianceExample\CovarianceExample\obj\Debug\net5.0\CovarianceContravarianceExample.csproj.AssemblyReference.cache
+C:\Users\chris\Desktop\C# .Net Projects\CovarianceContravarianceExample\CovarianceExample\obj\Debug\net5.0\CovarianceContravarianceExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\Desktop\C# .Net Projects\CovarianceContravarianceExample\CovarianceExample\obj\Debug\net5.0\CovarianceContravarianceExample.AssemblyInfoInputs.cache
+C:\Users\chris\Desktop\C# .Net Projects\CovarianceContravarianceExample\CovarianceExample\obj\Debug\net5.0\CovarianceContravarianceExample.AssemblyInfo.cs
+C:\Users\chris\Desktop\C# .Net Projects\CovarianceContravarianceExample\CovarianceExample\obj\Debug\net5.0\CovarianceContravarianceExample.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\C# .Net Projects\CovarianceContravarianceExample\CovarianceExample\obj\Debug\net5.0\CovarianceContravarianceExample.dll
+C:\Users\chris\Desktop\C# .Net Projects\CovarianceContravarianceExample\CovarianceExample\obj\Debug\net5.0\ref\CovarianceContravarianceExample.dll
+C:\Users\chris\Desktop\C# .Net Projects\CovarianceContravarianceExample\CovarianceExample\obj\Debug\net5.0\CovarianceContravarianceExample.pdb
+C:\Users\chris\Desktop\C# .Net Projects\CovarianceContravarianceExample\CovarianceExample\obj\Debug\net5.0\CovarianceContravarianceExample.genruntimeconfig.cache
