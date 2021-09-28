@@ -1,0 +1,16 @@
+C:\Users\chris\Desktop\C# .Net Projects\VaccinationListLab2\VaccinationListLab2\bin\Debug\net5.0\VaccinationListLab2.exe
+C:\Users\chris\Desktop\C# .Net Projects\VaccinationListLab2\VaccinationListLab2\bin\Debug\net5.0\VaccinationListLab2.deps.json
+C:\Users\chris\Desktop\C# .Net Projects\VaccinationListLab2\VaccinationListLab2\bin\Debug\net5.0\VaccinationListLab2.runtimeconfig.json
+C:\Users\chris\Desktop\C# .Net Projects\VaccinationListLab2\VaccinationListLab2\bin\Debug\net5.0\VaccinationListLab2.runtimeconfig.dev.json
+C:\Users\chris\Desktop\C# .Net Projects\VaccinationListLab2\VaccinationListLab2\bin\Debug\net5.0\VaccinationListLab2.dll
+C:\Users\chris\Desktop\C# .Net Projects\VaccinationListLab2\VaccinationListLab2\bin\Debug\net5.0\ref\VaccinationListLab2.dll
+C:\Users\chris\Desktop\C# .Net Projects\VaccinationListLab2\VaccinationListLab2\bin\Debug\net5.0\VaccinationListLab2.pdb
+C:\Users\chris\Desktop\C# .Net Projects\VaccinationListLab2\VaccinationListLab2\obj\Debug\net5.0\VaccinationListLab2.csproj.AssemblyReference.cache
+C:\Users\chris\Desktop\C# .Net Projects\VaccinationListLab2\VaccinationListLab2\obj\Debug\net5.0\VaccinationListLab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\Desktop\C# .Net Projects\VaccinationListLab2\VaccinationListLab2\obj\Debug\net5.0\VaccinationListLab2.AssemblyInfoInputs.cache
+C:\Users\chris\Desktop\C# .Net Projects\VaccinationListLab2\VaccinationListLab2\obj\Debug\net5.0\VaccinationListLab2.AssemblyInfo.cs
+C:\Users\chris\Desktop\C# .Net Projects\VaccinationListLab2\VaccinationListLab2\obj\Debug\net5.0\VaccinationListLab2.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\C# .Net Projects\VaccinationListLab2\VaccinationListLab2\obj\Debug\net5.0\VaccinationListLab2.dll
+C:\Users\chris\Desktop\C# .Net Projects\VaccinationListLab2\VaccinationListLab2\obj\Debug\net5.0\ref\VaccinationListLab2.dll
+C:\Users\chris\Desktop\C# .Net Projects\VaccinationListLab2\VaccinationListLab2\obj\Debug\net5.0\VaccinationListLab2.pdb
+C:\Users\chris\Desktop\C# .Net Projects\VaccinationListLab2\VaccinationListLab2\obj\Debug\net5.0\VaccinationListLab2.genruntimeconfig.cache
